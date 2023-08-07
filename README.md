@@ -1,12 +1,10 @@
 ### Olá a todos, eu sou o João Guilherme e sejam todos bem-vindos ao meu perfil 👋
 
-- 🔭 Atualmente trabalho como estagiário no Instituto Federal de Mato Grosso
-- 🌱 Estudando HTML, JavaScript, CSS e Python
+- 🔭 Atualmente trabalho como Analista de Sistemas Júnior na NBS Informática.
+- 🌱 Estudando Visual Basic .NET
 - 📫 Contato: joaoguilhermemarques@hotmail.com
 - 😄 Pronomes: Ele/Dele
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaogui20&show_icons=true&theme=dracula)
-](https://github.com/joaogui20/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaogui20&layout=compact&show_icons=true&theme=dracula)](https://github.com/joaogui20/github-readme-stats)
 
 <div style="display: inline_block"><br>
